@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a,b,temp;
+printf("enter the nos a and b"):
+scanf("%d%d",&a,&b);
+a=temp;
+temp=b;
+b=a;
+printf("swapped nos are=%d",a,b):
+return 0;
+}
